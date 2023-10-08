@@ -1,46 +1,9 @@
-.riot{
-    width: 150px;
-    height: 150px;
-    border-radius: 50%;
-    border: 5px solid rgb(0, 200, 255);
+body{
+    height: 100vh;
+    background-image: linear-gradient(0deg, rgba(34,193,195,1) 0%, rgba(144,11,227,1) 100%);
+    text-align: center;
 }
 
-.gamas{
-    width: 150px;
-    height: 150px;
-    border-radius: 50%;
-    border: 5px solid rgb(242, 255, 0);
-    position: absolute;
-    left: 95px;
-    top: 100px;
-}
-
-.dokfld{
-    width: 150px;
-    height: 150px;
-    border-radius: 50%;
-    border: 5px solid rgb(0, 0, 0);
-    position: absolute;
-    left: 195px;
-    top: 20px;
-}
-
-.riot2{
-    width: 150px;
-    height: 150px;
-    border-radius: 50%;
-    border: 5px solid rgb(4, 255, 0);
-    position: absolute;
-    left: 295px;
-    top: 100px;
-}
-
-.dokfld2{
-    width: 150px;
-    height: 150px;
-    border-radius: 50%;
-    border: 5px solid rgb(255, 0, 0);
-    position: absolute;
-    left: 395px;
-    top: 20px;
+.text{
+    
 }
