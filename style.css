@@ -1,0 +1,46 @@
+.riot{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    border: 5px solid rgb(0, 200, 255);
+}
+
+.gamas{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    border: 5px solid rgb(242, 255, 0);
+    position: absolute;
+    left: 95px;
+    top: 100px;
+}
+
+.dokfld{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    border: 5px solid rgb(0, 0, 0);
+    position: absolute;
+    left: 195px;
+    top: 20px;
+}
+
+.riot2{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    border: 5px solid rgb(4, 255, 0);
+    position: absolute;
+    left: 295px;
+    top: 100px;
+}
+
+.dokfld2{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    border: 5px solid rgb(255, 0, 0);
+    position: absolute;
+    left: 395px;
+    top: 20px;
+}
