@@ -5,5 +5,77 @@ body{
 }
 
 .text{
-    
+    background-color: rgba(0, 0, 0, 0.2);
+    padding: 20px;
+    width: 350px;
+    margin-top: 60px;
+    position: absolute;
+    right: 650px;
+    color: white;
 }
+
+.task2{
+    background-color: rgba(0, 0, 0, 0.2);
+    padding: 10px;
+    width: 250px;
+    margin-top: 138px;
+    position: absolute;
+    top: auto;
+    left: 715px;
+    color: white;
+    text-decoration: none;
+}
+
+.task2:hover{
+    background-color: rgba(0, 0, 0, 0.3)
+}
+
+.task3{
+    background-color: rgba(0, 0, 0, 0.2);
+    padding: 10px;
+    width: 250px;
+    margin-top: 180px;
+    position: absolute;
+    top: auto;
+    left: 715px;
+    color: white;
+    text-decoration: none;
+}
+
+.task3:hover{
+    background-color: rgba(0, 0, 0, 0.3);
+}
+
+.task4{
+    background-color: rgba(0, 0, 0, 0.2);
+    padding: 10px;
+    width: 250px;
+    margin-top: 222px;
+    position: absolute;
+    top: auto;
+    left: 715px;
+    color: white;
+    text-decoration: none;
+}
+
+.task4:hover{
+    background-color: rgba(0, 0, 0, 0.3);
+}
+
+.task5{
+    background-color: rgba(0, 0, 0, 0.2);
+    padding: 10px;
+    width: 250px;
+    margin-top: 264px;
+    position: absolute;
+    top: auto;
+    left: 715px;
+    color: white;
+    text-decoration: none;
+}
+
+.task5:hover{
+    background-color: rgba(0, 0, 0, 0.3);
+}
+
+

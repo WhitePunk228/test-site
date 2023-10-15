@@ -1,0 +1,30 @@
+body{
+    height: 100vh;
+    background-image: linear-gradient(0deg, rgba(34,193,195,1) 0%, rgba(144,11,227,1) 100%);
+    text-align: center;
+}
+
+.text{
+    background-color: rgba(0, 0, 0, 0.2);
+    padding: 20px;
+    width: 350px;
+    margin-top: 60px;
+    position: absolute;
+    right: 650px;
+    color: white;
+}
+
+form{
+    background-color: rgba(0, 0, 0, 0.2);
+    padding: 20px;
+    width: 500px;
+    margin-top: 140px;
+    position: absolute;
+    top: auto;
+    left: 575px;
+    color: white;
+    text-decoration: none;
+}
+input{
+    margin-bottom: 10px;
+}
